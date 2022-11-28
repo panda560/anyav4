@@ -1,7 +1,7 @@
 /**
    * Create By KoncitOfc 
-   * Contact Me on wa.me/621364444859
-   * Follow https://github.com/koncit
+   * Contact Me on wa.me/6281959293465
+   * Follow https://github.com/panda560
 */
 
 const fs = require('fs')
@@ -18,11 +18,11 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6281364444859']
-global.ownernomer = "6281364444859"
+global.owner = ['6281959293465']
+global.ownernomer = "6281959293465"
 global.premium = ['6281364444859']
-global.packname = 'Anya-Bot'
-global.author = '© Koncit'
+global.packname = 'Pb-Bot'
+global.author = '© M.A.F.Pratama'
 global.sessionName = 'knct'
 global.prefa = ['','!','.','#','&']
 global.sp = ''
